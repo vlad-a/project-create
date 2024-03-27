@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Flama';
+    src: url('Flama-Medium.eot');
+    src: url('Flama-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Flama-Medium.woff2') format('woff2'),
+        url('Flama-Medium.woff') format('woff'),
+        url('Flama-Medium.ttf') format('truetype'),
+        url('Flama-Medium.svg#Flama-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
